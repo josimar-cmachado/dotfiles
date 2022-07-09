@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = josimar.cmachado@hotmail.com
+	name = Josimar Machado
